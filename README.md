@@ -1,7 +1,23 @@
 *Bachelor Thesis Project*
 
 ### "Exploring the Efficacy of Diverse Classification Techniques In Detecting Disinformation In News."
+
 ---
+
+You can find the original Kaggle dataset here: [Misinformation & Fake News text dataset 79k](https://www.kaggle.com/datasets/stevenpeutz/misinformation-fake-news-text-dataset-79k?select=DataSet_Misinfo_TRUE.csv)
+
+**Beware that full datasets aren't directly included in the repository due to their excessive size and unformatted raw format!**
+
+---
+
+Under [Notebooks & Scripts](https://github.com/il1a/htw-bachelor-2023/tree/main/%5B1%5D%20Notebooks%20%26%20Scripts), you can find chronologically numbered jupyter notebooks that entail the entire technical implementation of the project, as well as subfolders [Data](https://github.com/il1a/htw-bachelor-2023/tree/main/%5B1%5D%20Notebooks%20%26%20Scripts/Data) and [Models](https://github.com/il1a/htw-bachelor-2023/tree/main/%5B1%5D%20Notebooks%20%26%20Scripts/Models) which contain .spacy and .pkl files, that allow simple loading of pre-formatted data frame and pre-trained algorithms.
+
+---
+
+Additionally, you can access both generated [Illustrations](https://github.com/il1a/htw-bachelor-2023/tree/main/%5B2%5D%20Illustrations) and [Tables](https://github.com/il1a/htw-bachelor-2023/tree/main/%5B3%5D%20Tables), which have been directly linked in the thesis or stored here as complementary appendices, under their designated folders.
+
+---
+
 Ilia Sokolovskiy
 
 HTW Berlin SS23
