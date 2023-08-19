@@ -18,6 +18,10 @@ Additionally, you can access both generated [Illustrations](https://github.com/i
 
 ---
 
+Last but not least, in the main directory, you can find the [Anaconda Environment File](https://github.com/il1a/htw-bachelor-2023/blob/main/htw_thesis_conda_env.yaml) that can be directly imported as a new environment for simplified project compatibility. And as an alternative to conda environment, there is also [requirements.txt](https://github.com/il1a/htw-bachelor-2023/blob/main/requirements.txt) that can be used for a chained installation of all the required project packages with pip.
+
+---
+
 Ilia Sokolovskiy
 
 HTW Berlin SS23
