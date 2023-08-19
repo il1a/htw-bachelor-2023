@@ -1,0 +1,15 @@
+spacy
+pandas
+numpy
+torch
+transformers
+peft
+sklearn
+bertviz
+pickle
+re
+vaderSentiment
+tqdm
+plotly
+matplotlib
+wordcloud
