@@ -12,7 +12,7 @@ You can find the original Kaggle dataset here: [Misinformation & Fake News text 
 
 Under [Notebooks & Scripts](https://github.com/il1a/htw-bachelor-2023/tree/main/%5B1%5D%20Notebooks%20%26%20Scripts), you can find chronologically numbered jupyter notebooks that entail the entire technical implementation of the project, as well as subfolders [Data](https://github.com/il1a/htw-bachelor-2023/tree/main/%5B1%5D%20Notebooks%20%26%20Scripts/Data) and [Models](https://github.com/il1a/htw-bachelor-2023/tree/main/%5B1%5D%20Notebooks%20%26%20Scripts/Models) which contain .spacy and .pkl files, that allow simple loading of pre-formatted data frame and pre-trained algorithms.
 
-> **Disclaimer!** Due to the data-related serialization files, when cloning, the total size of the project fluctuates around 800 MB, because of which the cloning process might take a minute or two.
+> **Disclaimer!** Due to the big data-related serialization files, when cloning, the project's total size fluctuates around 800 MB, because of which the cloning process might take a minute or two.
 
 ---
 
