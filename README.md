@@ -24,6 +24,10 @@ Last but not least, in the main directory, you can find the [Anaconda Environmen
 
 ---
 
+See the [LICENSE](https://github.com/il1a/htw-bachelor-2023/blob/main/LICENSE) file for license rights and limitations (GNU-v3.0).
+
+---
+
 Ilia Sokolovskiy
 
 HTW Berlin SS23
